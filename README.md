@@ -1,0 +1,2 @@
+# SparkKinesisStreaming
+SparkKinesisStreaming WordCount example
